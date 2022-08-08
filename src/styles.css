@@ -37,4 +37,6 @@ html {
 	content: "";
 	position: absolute;
 	left: -18px;
+	height: 100px;
+	width: 32px;
 }
